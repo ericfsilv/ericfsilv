@@ -1,25 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<h1> Hi, I'm Eric Silva 💻</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericfsilv&show_icons=true&count_private=true&hide_border=true&title_color=696969&icon_color=696969&text_color=c9d1d9&bg_color=0d1117" alt="Eric Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericfsilv&layout=compact&hide_border=true&title_color=696969&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-
-<div align="center"> 
-<a href="https://instagram.com/ericfsilvaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href ="mailto:ericfsilva.contato@gmail.com" target="_bank"><img src="https://img.shields.io/badge/-Gmail-%B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erifsilv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<div> 
+     <a href="https://instagram.com/ericfsilvaa?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:ericfsilva.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/ericfsilvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+<h2 align="left">
+This is my favorite environment, where ideas and innovation become code.
+</h2>
 
+<p>You can contact me by email:<a href="mailto:ericfsilva.contato@gmail.com">ericfsilva.contato@gmail.com</a>.</p> 
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
+<p>I have knowledge in: </p>
+<div align="left">
 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,vscode
+)](https://skillicons.dev)
 
+  </div>
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericfsilv&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericfsilv&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericfsilv&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericfsilv&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ericfsilv&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
