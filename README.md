@@ -15,7 +15,7 @@ This is my favorite environment, where ideas and innovation become code.
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,django,flask,vscode
 )](https://skillicons.dev)
 
   </div>
