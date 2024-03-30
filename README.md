@@ -1,4 +1,4 @@
-<h1> Hi, I'm Eric Silva 💻</h1>
+<h1> Hi, I'm Eric Silva </h1>
 
 <div> 
      <a href="https://instagram.com/ericfsilvaa?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
