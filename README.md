@@ -15,7 +15,7 @@ Welcome to my world!
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,django,flask,c
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,django,flask,c++
 )](https://skillicons.dev)
 
   </div>
