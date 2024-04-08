@@ -6,7 +6,7 @@
      <a href="https://www.linkedin.com/in/ericfsilvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <h2 align="left">
-This is my favorite environment, where ideas and innovation become code.
+Welcome to my world!
 </h2>
 
 <p>You can contact me by email:<a href="mailto:ericfsilva.contato@gmail.com">ericfsilva.contato@gmail.com</a>.</p> 
@@ -15,7 +15,7 @@ This is my favorite environment, where ideas and innovation become code.
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,django,flask,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,git,python,django,flask,c
 )](https://skillicons.dev)
 
   </div>
