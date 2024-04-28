@@ -9,7 +9,7 @@
 Welcome to my world!
 </h2>
 
-<p>You can contact me by email:<a href="mailto:ericfsilva.contato@gmail.com">ericfsilva.contato@gmail.com</a>.</p> 
+<p>You can contact me by email:<a href="mailto: ericfsilva.contato@gmail.com">ericfsilva.contato@gmail.com</a>.</p> 
 <br>
 
 <p>I have knowledge in: </p>
