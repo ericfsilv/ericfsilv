@@ -5,9 +5,6 @@
      <a href = "mailto:ericfsilva.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/in/ericfsilvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-<h2 align="left">
-Welcome to my world!
-</h2>
 
 <p>You can contact me by email:<a href="mailto:ericfsilva.contato@gmail.com"> ericfsilva.contato@gmail.com</a>.</p> 
 <br>
