@@ -12,7 +12,7 @@
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,git
 )](https://skillicons.dev)
 
   </div>
