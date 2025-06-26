@@ -12,13 +12,8 @@
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,git
-)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,java,python)](https://skillicons.dev)
 
   </div>
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericfsilv&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericfsilv&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericfsilv&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericfsilv&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ericfsilv&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericfsilv&theme=nord_dark) 
