@@ -1,19 +1,21 @@
-<h1> Hi, I'm Eric Felipe </h1>
+# Hi, I'm Eric Felipe
 
-<div> 
-     <a href="https://instagram.com/ericfsilvaa?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-     <a href = "mailto:ericfsilva.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-     <a href="https://www.linkedin.com/in/ericfsilvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+**Network Engineer · Optical Transport (DWDM) · IP/MPLS**
 
-<p>You can contact me by email:<a href="mailto:ericfsilva.contato@gmail.com"> ericfsilva.contato@gmail.com</a>.</p> 
-<br>
+I work in optical transmission at an ISP, where I help size and troubleshoot long-haul DWDM links. My background in network operations (NOC) helps me trace service issues across the optical and IP/MPLS layers, from the first alarm to service restoration.
 
-<p>I have knowledge in: </p>
-<div align="left">
+## Technical skills
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+- **Optical transport:** DWDM and OTN, optical power budgets, EDFA, and link performance analysis using optical power, OSNR, pre-FEC BER, and Q-factor. Hands-on experience with Infinera, Padtec, Ciena, and Sparks platforms.
+- **IP/MPLS networks:** BGP, OSPF, MPLS, VRFs, VLANs, and QinQ across Huawei, Cisco, Juniper, Nokia, and Datacom equipment.
+- **Network operations:** Zabbix monitoring, OTDR and VIAVI SmartClass measurements, incident troubleshooting, field team coordination, and technical documentation.
+- **Scripting and development:** Python for CLI tools and task automation, plus web projects using JavaScript, HTML, and CSS.
 
-  </div>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericfsilv&theme=nord_dark) 
+## Featured projects
+
+- [cli-python](https://github.com/ericfsilv/cli-python) — a Python CLI that sorts files by type, renames them in batches, and logs its actions.
+- [automacao-py](https://github.com/ericfsilv/automacao-py) — a Python script that sorts files into folders based on keywords in their names.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ericfsilvaa/) · [Email](mailto:ericfsilva.contato@gmail.com)
